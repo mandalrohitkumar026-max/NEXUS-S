@@ -277,8 +277,4 @@ NEXUS-S features a **Modern Light Professional Interface** inspired by Linear, N
 - **Backend**: Node.js (`v22+` / `v24+`), Express 4.21, WebSocket (`ws`), TypeScript (`tsx`), CORS.
 - **Architecture**: Monorepo with `concurrently` orchestration.
 
----
 
-## License
-
-MIT License. Developed for research in autonomous multi-agent robotics and decentralized swarm intelligence.
